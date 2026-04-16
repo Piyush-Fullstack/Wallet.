@@ -59,7 +59,7 @@ const App = () => {
   });
 
   return (
-    <div className='min-h-screen bg-slate-50 text-slate-900 font-sans p-4 md:p-8'>
+    <div className='min-h-screen bg-slate-50 text-slate-900 font-gilroy p-4 md:p-8'>
       <div className='max-w-2xl mx-auto'>
         
         {/* Dashboard Header */}
